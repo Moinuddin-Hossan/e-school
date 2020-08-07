@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.nav-link{
+    font-size: 1.1em !important;
+    color: rgb(3, 218, 21);
+}
+.navbar{
+    padding: .8rem;
+    background-color: #0892c0;
+
+}
+
+.navbar img{
+    height: 70px;
+    width: 200px;
+    margin: auto;
+}
+
+.navbar-nav li{
+    padding-right: 20px;
+}
+h6{
+    padding-top: 100px;
+    color: #e65100;
+}
+
+span{
+    color: #051105;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 4rem;
+    padding-right: 25px;
+}
+
+.btn{
+    background-color: #000000;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 25px;
+    font-size: 14px;
+    margin-right: 14px;
+}
+
+.hiro{
+    width: 100%;
+    padding: 100px 0;
+    padding-top: 10px;
+    margin: 5rem center;
+    background-color: #e8f5e9;
+}
+
+.hiro .hero-para{
+    line-height: 2rem;
+    opacity: 100%;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.img-fluid2 {
+    padding-top: 40px;
+    max-width: 100%;
+
+}
+
+.progress{
+    height: auto;
+    width: 90%;
+    margin: auto;
+    background: none;
+    padding: 40px;
+    margin-bottom: -10px;
+}
+
+.progress .box{
+    background-color: #f7fff8;
+    padding: 30px 20px;
+    transition: all 0.5s;
+}
+
+.progress img{
+    height: 72px;
+    width: 60px;
+}
+
+.progress .box h4{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.progress .box h5{
+    font-size: 14px;
+    font-weight: lighter;
+    margin-top: 5px;
+}
+.progress .box:hover{
+    box-shadow: 5px 5px 10px rgb(2, 0, 0);
+    background-color: rgba(240, 236, 20, 0.527);
+}
+
+.courses h3{
+    font-weight: 700;
+    color: rgb(2, 11, 19);
+    font-size: 32px;
+    margin-bottom: 4rem;
+}
+
+.courses h3{
+    font-weight: 700;
+    color: rgb(2, 11, 19);
+    font-size: 32px;
+    margin-bottom: 4rem;
+}
+
+.courses h5{
+    font-size: 20px;
+    color: rgb(16, 0, 241);
+    font-weight: 600;
+}
+
+.courses p{
+    opacity: 0.7;
+}
+
+.courses .details h4{
+    font-size: 14px;
+    padding: 10px 15px;
+    opacity: 0.9;
+}
+
+.testimonial{
+    width: 60%;
+    margin: 4rem auto;
+}
+
+.testimonial h3{
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    margin-bottom: 4rem;
+}
+
+.testimonial .review img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.testimonial .review p{
+    margin-left: 50px;
+    font-weight: 500;
+    opacity: 0.9;
+    padding-top: 5px;
+}
+
+footer{
+    background-color: rgb(2, 11, 19);
+    padding: 50px 100px;
+    height: auto;
+}
+footer p{
+    color: white;
+    font-size: 14px;
+    opacity: 0.8;
+}
+footer ul{
+    list-style: none;
+    color: rgb(240, 235, 235);
+    text-align: buld;
+}
+footer ul li{
+    opacity: 0.8;
+    font-size: 14px;
+}
+footer ul li:first-child{
+    font-weight: 700;
+    opacity: 1;
+    font-size: 16px;
+}
